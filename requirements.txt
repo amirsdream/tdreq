@@ -1,0 +1,4 @@
+django-rest_framework
+email-hunter-python
+djangorestframework-jwt
+pyhunter
